@@ -25,10 +25,10 @@ To view the website locally, follow these steps:
 2. Open index.html in your preferred web browser.
 
 ## ScreenShots
-![alt text](<Screenshot 2024-02-22 203209.png>)
-![alt text](<Screenshot 2024-02-21 234114.png>)
-![alt text](<Screenshot 2024-02-22 203305.png>)
-![alt text](<Screenshot 2024-02-22 203321.png>)
+![alt text](<Images/Screenshot 2024-02-22 203209.png>)
+![alt text](<Images/Screenshot 2024-02-22 203305.png>)
+![alt text](<Images/Screenshot 2024-02-22 203321.png>)
+![alt text](<Images/Screenshot 2024-02-23 104013.png>)
 
 ## License
 Not yet added!
