@@ -31,4 +31,6 @@ To view the website locally, follow these steps:
 ![alt text](<Images/Screenshot 2024-02-23 104013.png>)
 
 ## License
-Not yet added!
+[GNU](LICENCE)
+ 
+Thank You!!
