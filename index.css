@@ -107,7 +107,7 @@ body {
     width:10vw;
     height:10vw;
     text-align:center;
-    font-size:25px;
+    font-size:34px;
     transform:rotate(90deg);
     background:transparent;
     color:#fff;
@@ -120,6 +120,10 @@ body {
     z-index:4;
     transition:0.4s ease-in-out;
     border-radius:0px 0px 100px 100px;
+}
+
+#work h2,p{
+    font-size: 40px;
 }
 #contact {
     width:10vw;
@@ -212,8 +216,12 @@ body {
     font-size:60px;
     text-decoration:underline;
 }
+.container h2 {
+    font-size:40px;
+    text-decoration:underline;
+}
 .container p {
-    font-size:21px;
+    font-size:30px;
 }
 .btn_one {
     font-size:18px;
