@@ -1,5 +1,5 @@
-## Harsha Bhondwe Portfolio-
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio website showcasing my projects, skills, and work.
+## Harsha Bhondwe Project Portfolio-
+Welcome to my project portfolio website! This repository contains the source code for my personal portfolio website showcasing my projects, skills, and work.
 
 ## About
 This website serves as a platform to showcase my work, skills, and experiences in the field of Android Development. It features a collection of projects I have worked on, along with details about my education and contact information.
